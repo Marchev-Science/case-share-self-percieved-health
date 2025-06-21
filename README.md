@@ -79,8 +79,7 @@ Major consistent factors should be presented in the following format:
 
 1. **Structured Workflow** → CRISP-DM phases ensure completeness.  
 2. **Prevent Leakage** → strictly remove leaky features.  
-3. **Panel Handling** → country/time controls; clustered splits.  
-4. **Reproducibility** → notebook modular, seeds set, markdown explanations.  
+3. **Reproducibility** → notebook modular, seeds set, markdown explanations.  
 
 
 ---
